@@ -1,8 +1,5 @@
 <div align="center">
-
-# ArchFlow
-
-**From requirements to cloud architecture — in one workspace.**
+  <img src="assets/cover.png" alt="ArchFlow — From requirements to cloud architecture, in one workspace." width="100%" />
 
 Describe what you want to build, or upload your existing requirements doc.
 ArchFlow turns either starting point into an editable AWS architecture diagram
